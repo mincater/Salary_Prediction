@@ -71,10 +71,6 @@ jupyter notebook Salary_Prediction.ipynb
 
 This is a basic linear regression project intended for learning and demonstration purposes. Performance may vary depending on the dataset features and quality.
 
-## 📄 License
-
-This project is available under the [MIT License](LICENSE).
-
 ---
 
 ## 📦 requirements.txt
