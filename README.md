@@ -33,7 +33,7 @@ The goal of this project is to predict an individual's salary based on data prov
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/salary-prediction.git
+git clone https://github.com/mincater/salary-prediction.git
 cd salary-prediction
 ```
 
